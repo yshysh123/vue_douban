@@ -27,10 +27,15 @@ npm run dev
 
 **技术栈**
 vue2.0 + vue-router + vuex：vue全家桶
+
 axios：用于ajax请求
+
 vue-lazyload：用于图片懒加载
+
 vue-scroller：移动端滚动库，优化移动端滚动效果
+
 webpack： 构建工具
+
 es6: 使用es6语法
 
 使用localStorage存储收藏的电影信息,个人中心信息
